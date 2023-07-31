@@ -12,7 +12,7 @@ ADD EAX, 6 ; // Soma 6 ao registrador EAX
 
 ## Ex função:
 ```
-function soma(a, b) { return a + b}
+function soma(a, b) { return a + b }
 soma(5, 6)
 ```
 
