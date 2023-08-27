@@ -32,7 +32,7 @@
  *Após instalar as dependências, instale também os *Types* usando os seguintes comandos:*
 
  ```
-    npm install --save-dev @types/express @types/mustache @types/node
+    npm install --save-dev @types/express @types/mustache-express @types/node
  ```
 
  *O comando **"--save-dev"** fará com que os types sejam instalados apenas no ambiente de desenvolvimento, já que é o único lugar onde será utilizado.*
