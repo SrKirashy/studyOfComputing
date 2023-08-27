@@ -37,7 +37,7 @@
 
  *O comando **"--save-dev"** fará com que os types sejam instalados apenas no ambiente de desenvolvimento, já que é o único lugar onde será utilizado.*
 
- *Você pode conferir todas as configurações no arquivo **"package.json"**.*
+ *Você pode conferir todas as configurações no arquivo **"package-lock.json"**.*
 
  ## Crie a pasta "src":
 
