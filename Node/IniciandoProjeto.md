@@ -67,7 +67,7 @@
     }
 ```
 
-*Agora toda vez que quiser iniciar o projeto é só inserir o comando **"npm run start-dev"***
+*Toda vez que quiser iniciar o projeto é só inserir o comando **"npm run start-dev"**.*
 
 
-*Pronto! Agora é só configurar o seu arquivo **README.md** e colocar a mão na massa!*
+**Pronto! Agora é só configurar o seu arquivo **README.md** e colocar a mão na massa!**
