@@ -39,11 +39,12 @@
 
  *Você pode conferir todas as configurações no arquivo **"package.json"**.*
 
- ## Crie as pastas "src"
+ ## Crie a pasta "src":
 
  *Crie a pasta **src** e dentro dela crie o arquivo **"server.ts"** ( onde terá as configurações do seu servidor. )*
 
----
+# Facilitando o desenvolvimento:
+ 
  *Assumindo que você já tenha essas três denpedências instaladas **globalmente**:*
  ```
     1 - nodemon
@@ -66,4 +67,7 @@
     }
 ```
 
-*Pronto! Agora é só configurar o seu arquivo **README.md** !*
+*Agora toda vez que quiser iniciar o projeto é só inserir o comando **"npm run start-dev"***
+
+
+*Pronto! Agora é só configurar o seu arquivo **README.md** e colocar a mão na massa!*
