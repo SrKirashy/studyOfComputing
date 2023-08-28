@@ -45,7 +45,7 @@
 
 *E por final, set a **engine mustache**:*
 ```
-    server.set('mustache', mustache());
+    server.engine('mustache', mustache());
 ```
 
 ### Configure a pasta pública
