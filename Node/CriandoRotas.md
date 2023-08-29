@@ -3,7 +3,7 @@
 *Crie a pasta **'routes'** dentro de **'src'** e configure as rotas, importando Router:*
 
 ```
-    import Router from 'express';
+    import {Router} from 'express';
 
     const router = Router();
 
